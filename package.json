@@ -1,0 +1,19 @@
+{
+  "name": "wba2ss17guecjourhbirisimsek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koray22/WBA2SS17GuecJourhbiriSimsek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koray22/WBA2SS17GuecJourhbiriSimsek/issues"
+  },
+  "homepage": "https://github.com/Koray22/WBA2SS17GuecJourhbiriSimsek#readme"
+}
